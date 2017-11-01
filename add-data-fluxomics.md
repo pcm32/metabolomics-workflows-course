@@ -23,3 +23,5 @@ Click on the upload button shown to open the pop-up shown below. Either use the 
 Before we click on start to start the upload we need to change the "Type" of the data file "**wd.zip**" to zip. This will prevent Galaxy from extracting the files from the archive after uploading. After changing the type to "zip" we can click on start to initiate the upload.
 
 When all files have been uploaded they will show up marked in green, and the status will be 100%. We can now use the "close" link in the bottom right to go back to the Galaxy main page. Here we will see a history in the right pane of the screen with all the uploaded files.
+
+Now go back to the main [tutorial page](README.md) and follow on the next section. 

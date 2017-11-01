@@ -16,10 +16,18 @@ You will be assigned to an instance previously deployed. We will first execute s
 
 Login to your assigned instance.
 
-Follow [this instructions](add-data-fluxomics.md) for adding data to your account on the instance.
+### 2.1 Add data to your Galaxy instance
 
-Follow [this instructions](run-individual-tools.md) for running individual tools with the data.
+Follow [these instructions](add-data-fluxomics.md) for adding data to your account on the instance.
 
-Follow [this instructions](build-fluxomics-workflow.md) for workflow building inside the instance.
+### 2.2 Run tools individually
 
-Follow [this instructions](run-existing-workflow.md) for running the analysis with an existing workflow.
+Follow [these instructions](run-individual-tools.md) for running individual tools with the data.
+
+### 2.3 Building a fluxomics workflow
+
+Follow [these instructions](build-fluxomics-workflow.md) for workflow building inside the instance.
+
+### 2.4 Running an existing fluxomics workflow
+
+Follow [these instructions](https://portal.phenomenal-h2020.eu/help/fluxomics-workflow) for running the analysis with an existing workflow.
