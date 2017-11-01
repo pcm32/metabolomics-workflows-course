@@ -10,7 +10,7 @@ Before we can run a workflow we need input data. For the Fluxomics workflow we n
 6. escher-fluxomics - visualisation layout settings: **map\_w\_layout.json**, a file with the visualization layout settings for scheme generation"
 
 
-[Download this archive](https://drive.google.com/open?id=0B7S2ZMhdzWwbcmp3YUI0eEliM0E) and extract it on your local PC or laptop.
+[Download this archive](https://drive.google.com/uc?export=download&id=0B7S2ZMhdzWwbcmp3YUI0eEliM0E) and extract it on your local PC or laptop.
 
 Next is to make the data available in Galaxy. This can be done in serveral ways, for this tutorial we will be using the **build-in file uploader** of Galaxy. The file uploader is available on the left of your screen, right under "Galaxy", to the right of "Tools". 
 
