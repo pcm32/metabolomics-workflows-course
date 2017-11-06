@@ -1,5 +1,7 @@
 # Metabolomics Workflows course - PhenoMeNal module
 
+This is the material used for the 4th day of the [EMBL-EBI Metabolomics Workflows Course 2017](https://www.ebi.ac.uk/training/events/2017/metabolomics-workflows), held on November 2017 at EMBL-EBI. 
+
 ## Introduction to PhenoMeNal
 
 Pablo Moreno (EBI) & Steffen Neumann (IPB-Halle)
