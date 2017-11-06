@@ -10,7 +10,7 @@ Slides (30 minutes)
 
 ## Hands on 1: Portal, public instance and deployment.
 
-Portal hands on, to trigger a deployment and use the Galaxy instance deployed. Following [this instructions](portal-practical.md).
+Portal hands on, to trigger a deployment and use the Galaxy instance deployed. Following [these instructions](portal-practical.md).
 
 ## Hands on 2: Build a workflow
 
