@@ -6,7 +6,7 @@ This is the material used for the 4th day of the [EMBL-EBI Metabolomics Workflow
 
 Pablo Moreno (EBI) & Steffen Neumann (IPB-Halle)
 
-Slides (30 minutes)
+[Slides](https://drive.google.com/open?id=0B3GjpBpPCNBcQlJLWnpWWGZXb3c) (30 minutes)
 
 ## Hands on 1: Portal, public instance and deployment.
 
